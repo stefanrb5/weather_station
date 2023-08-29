@@ -1,4 +1,3 @@
-Certainly, here's an updated version of the README:
 Raspberry Pi Weather Station
 
 This Raspberry Pi 4-based weather station utilizes DS18B20 for water temperature, DHT11 for air temperature and humidity, and BMP280 for atmospheric pressure measurements. It provides real-time environmental data for monitoring and analysis through a user-friendly Qt GUI application.
